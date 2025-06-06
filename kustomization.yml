@@ -8,7 +8,7 @@ resources:
 images:
   - name: 968225077300.dkr.ecr.us-west-1.amazonaws.com/minicursodevopsaws/production/backend
     newName: 968225077300.dkr.ecr.us-west-1.amazonaws.com/minicursodevopsaws/production/backend
-    newTag: v2.0
+    newTag: v1.0
 
   - name: 968225077300.dkr.ecr.us-west-1.amazonaws.com/minicursodevopsaws/production/frontend
     newName: 968225077300.dkr.ecr.us-west-1.amazonaws.com/minicursodevopsaws/production/frontend
